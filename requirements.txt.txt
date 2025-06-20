@@ -1,4 +1,0 @@
-streamlit==1.26.0
-transformers==4.40.2
-pymupdf==1.22.5
-torch==2.2.2
